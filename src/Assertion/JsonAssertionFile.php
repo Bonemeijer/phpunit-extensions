@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace PhpUnitExtensions\Assertion;
+namespace Bonemeijer\PhpUnitExtensions\Assertion;
 
 use PHPUnit\Framework\TestCase;
 

@@ -4,9 +4,9 @@ declare(strict_types=1);
 
 namespace Tests\Unit\Assertion;
 
+use Bonemeijer\PhpUnitExtensions\Assertion\JsonAssertionTrait;
 use PHPUnit\Framework\Attributes\DataProvider;
 use PHPUnit\Framework\TestCase;
-use PhpUnitExtensions\Assertion\JsonAssertionTrait;
 
 class JsonAssertionTraitTest extends TestCase
 {

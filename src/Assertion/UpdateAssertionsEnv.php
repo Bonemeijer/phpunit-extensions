@@ -1,6 +1,6 @@
 <?php
 
-namespace PhpUnitExtensions\Assertion;
+namespace Bonemeijer\PhpUnitExtensions\Assertion;
 
 class UpdateAssertionsEnv
 {
