@@ -85,7 +85,7 @@ the test suite with `UPDATE_ASSERTIONS=1`. The GIT diff will show you the change
 
 ## Deployment
 
-Don't. Don't deploy debug tools. Which is why I recommend using the `--dev` flag during installation.
+Don't deploy test tools. Which is why the Composer `--dev` flag is recommended.
 
 ## Versioning
 
