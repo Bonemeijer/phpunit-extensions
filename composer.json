@@ -1,7 +1,7 @@
 {
     "name": "bonemeijer/phpunit-extensions",
     "type": "library",
-    "description": "A simple library of helper for PHPUnit tests",
+    "description": "A simple library of helper components for PHPUnit tests",
     "keywords": [
         "phpunit"
     ],

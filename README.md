@@ -1,6 +1,6 @@
 # Bonemeijer/phpunit-extensions
 
-A simple library of helper for PhpUnit tests.
+A simple library of helper components for PhpUnit tests.
 
 The goal is to provide some simple time-saving PhpUnit extensions.
 
