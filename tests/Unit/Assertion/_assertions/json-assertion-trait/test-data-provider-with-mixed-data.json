@@ -1,0 +1,19 @@
+{
+    "string": "henlo, this is dog",
+    "int": 123,
+    "float": 123.456,
+    "null": null,
+    "true": true,
+    "false": false,
+    "datetime": {
+        "date": "2020-01-01 12:37:51.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "array": {
+        "string": "henlo, this is dog"
+    },
+    "object": {
+        "string": "henlo, this is dog"
+    }
+}
