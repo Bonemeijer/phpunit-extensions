@@ -1,11 +1,11 @@
 {
-    "name": "bonemeijer/php-unit-extensions",
+    "name": "bonemeijer/phpunit-extensions",
     "type": "library",
     "description": "A simple library of helper for PHPUnit tests",
     "keywords": [
         "phpunit"
     ],
-    "homepage": "https://github.com/Bonemeijer/php-unit-extensions",
+    "homepage": "https://github.com/Bonemeijer/phpunit-extensions",
     "license": "MIT",
     "authors": [
         {
@@ -16,9 +16,9 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/Bonemeijer/php-unit-extensions/issues",
-        "source": "https://github.com/Bonemeijer/php-unit-extensions",
-        "docs": "https://github.com/Bonemeijer/php-unit-extensions/doc"
+        "issues": "https://github.com/Bonemeijer/phpunit-extensions/issues",
+        "source": "https://github.com/Bonemeijer/phpunit-extensions",
+        "docs": "https://github.com/Bonemeijer/phpunit-extensions/doc"
     },
     "require": {
         "php": ">=8.3.0"

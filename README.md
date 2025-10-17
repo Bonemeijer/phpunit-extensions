@@ -1,15 +1,19 @@
-# Bonemeijer/php-unit-extensions
+# Bonemeijer/phpunit-extensions
 
 A simple library of helper for PhpUnit tests.
 
 The goal is to provide some simple time-saving PhpUnit extensions.
+
+[![Latest Stable Version](https://poser.pugx.org/bonemeijer/phpunit-extensions/v/stable)](https://packagist.org/packages/bonemeijer/phpunit-extensions)
+[![Total Downloads](https://poser.pugx.org/bonemeijer/phpunit-extensions/downloads)](https://packagist.org/packages/bonemeijer/phpunit-extensions)
+[![License](https://poser.pugx.org/bonemeijer/phpunit-extensions/license)](https://packagist.org/packages/bonemeijer/phpunit-extensions)
 
 ### Installing
 
 This project is still in beta. Backwards incompatible changes **will** be introduced during this time.
 
 ```
-composer require bonemeijer/php-unit-extensions --dev
+composer require bonemeijer/phpunit-extensions --dev
 ```
 
 ## JSON Assertion
