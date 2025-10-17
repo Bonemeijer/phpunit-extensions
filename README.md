@@ -90,15 +90,14 @@ Don't. Don't deploy debug tools. Which is why I recommend using the `--dev` flag
 ## Versioning
 
 This package uses [SemVer](http://semver.org/) for versioning. For the versions available, see the
-[tags on this repository](https://github.com/Bonemeijer/php-unit-extensions/tags).
+[tags on this repository](https://github.com/Bonemeijer/phpunit-extensions/tags).
 
 ## Authors
 
 * **Maurice Bonemeijer** - *Initial work* - [Bonemeijer](https://github.com/Bonemeijer)
 
-See also the list of [contributors](https://github.com/Bonemeijer/php-unit-extensions/contributors) who participated in
-this
-project.
+See also the list of [contributors](https://github.com/Bonemeijer/phpunit-extensions/contributors) who participated in
+this project.
 
 ## License
 
